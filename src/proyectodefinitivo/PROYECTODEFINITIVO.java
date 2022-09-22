@@ -21,7 +21,7 @@ public class PROYECTODEFINITIVO {
         JOptionPane.showMessageDialog(null, "SOY KEVIN ROBERTO CHIQUIL CHIN");
         JOptionPane.showMessageDialog(null, "SOY ANGEL ADRIAN KAU MIS");
         JOptionPane.showMessageDialog(null, "SOY ADRIAN OSWALDO CAMARENA HEREDIA");
-          JOptionPane.showMessageDialog(null, "ZURIEL ARGENIS CANTÓN DZIB");
+          JOptionPane.showMessageDialog(null, "SOY ZURIEL ARGENIS CANTÓN DZIB");
 
 
     }
