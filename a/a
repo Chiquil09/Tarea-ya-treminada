@@ -1,0 +1,23 @@
+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
+
+git remote add origin https://github.com/Chiquil09/Tarea-ya-treminada.git
+
+git config --global user.email "royernose04@gmail.com"
+git config --global user.name "Royel2000"
+
+git config pull.rebase false
+git config pull.rebase true
+
+rm -rf Tarea-ya-treminada/
+git clone https://github.com/Chiquil09/Tarea-ya-treminada.git
+cd Tarea-ya-treminada/
+git push
+pwd
+git add .
+git commit -m "nombre"
+git push
+git status
+git pull
+
+
+
