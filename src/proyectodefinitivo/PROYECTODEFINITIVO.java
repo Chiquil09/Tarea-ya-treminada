@@ -20,6 +20,12 @@ public class PROYECTODEFINITIVO {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "SOY KEVIN ROBERTO CHIQUIL CHIN");
         JOptionPane.showMessageDialog(null, "SOY ANGEL ADRIAN KAU MIS");
+<<<<<<< HEAD
+=======
+
+        JOptionPane.showMessageDialog(null, "SOY ADRIAN OSWALDO CAMARENA HEREDIA");
+
+>>>>>>> 047c886 (adrian)
     }
     
 }
