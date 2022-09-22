@@ -19,6 +19,7 @@ public class PROYECTODEFINITIVO {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "SOY KEVIN ROBERTO CHIQUIL CHIN");
+        JOptionPane.showMessageDialog(null, "SOY ANGEL KAU MIS");
     }
     
 }
